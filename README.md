@@ -7,3 +7,5 @@ This page collects working examples of small web apps built with generative AI /
 | Gen Alpha Slang Translator | https://gdsaxton.github.io/gen-alpha-slang/ | https://github.com/gdsaxton/gen-alpha-slang | Simple static web app, user input, dictionary-style lookup |
 | Retirement Planning Tool | https://gdsaxton.github.io/retirement-planning-tool/ | https://github.com/gdsaxton/retirement-planning-tool | Short description |
 | Sunshine List Outlier Analysis Tool | https://gdsaxton.github.io/sunshine-list-outlier-analysis | https://github.com/gdsaxton/sunshine-list-outlier-analysis | Short description |
+| CPA Personal Website | https://gdsaxton.github.io/sarah-chen-cpa | https://github.com/gdsaxton/sarah-chen-cpa | Short description |
+| CPA Personal Website (CRA style) | https://gdsaxton.github.io/sarah-chen-cpa-cra | https://github.com/gdsaxton/sarah-chen-cpa-cra | Short description |
