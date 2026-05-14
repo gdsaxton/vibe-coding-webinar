@@ -9,3 +9,4 @@ This page collects working examples of small web apps built with generative AI /
 | Sunshine List Outlier Analysis Tool | [Open app](https://gdsaxton.github.io/sunshine-list-outlier-analysis) | [View code](https://github.com/gdsaxton/sunshine-list-outlier-analysis) | Data analysis tool for identifying compensation outliers |
 | CPA Personal Website | [Open app](https://gdsaxton.github.io/sarah-chen-cpa) | [View code](https://github.com/gdsaxton/sarah-chen-cpa) | Simple professional website for a fictional CPA |
 | CPA Personal Website (CRA style) | [Open app](https://gdsaxton.github.io/sarah-chen-cpa-cra) | [View code](https://github.com/gdsaxton/sarah-chen-cpa-cra) | Professional website with government-style visual design |
+| Population Testing Tool | [Open app](https://gdsaxton.github.io/population-testing) |  [View code](https://github.com/gdsaxton/population-testing) |  Population Testing Tool |
